@@ -1,0 +1,66 @@
+body {
+  background-color: #ffffff;
+  font-family: "Roboto", "Helvetica Neue", "Verdana", sans-serif;
+  color: #434455;
+}
+a {
+  text-decoration: none;
+}
+.websudio {
+  text-transform: uppercase;
+}
+.navigation .link:hover .link:focus {
+}
+.service {
+  background-color: #2e2f42;
+  color: #ffffff;
+}
+.service-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}
+#studio h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+#sudio p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.team h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+}
+.team h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.team p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+#portfolio h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+}
+#portfolio h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+#portfolio p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.last {
+  background: #2e2f42;
+  color: #f4f4fd;
+}
+.last .websudio {
+  color: #f4f4fd;
+}
