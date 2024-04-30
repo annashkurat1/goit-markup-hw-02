@@ -6,11 +6,13 @@ body {
 a {
   text-decoration: none;
 }
+a:hover a:focus a:active {
+  color: green;
+}
 .websudio {
   text-transform: uppercase;
 }
-.navigation .link:hover .link:focus {
-}
+
 .service {
   background-color: #2e2f42;
   color: #ffffff;
