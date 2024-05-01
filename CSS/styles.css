@@ -55,6 +55,12 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.link-contacts:hover .link-mail:hover {
+  color: #404bbf;
+}
+.link-contacts:focus .link-mail:focus {
+  color: #404bbf;
+}
 .link-call {
   font-weight: 400;
   font-size: 16px;
@@ -73,6 +79,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  line-height: 1.07;
 }
 .service-button {
   background-color: #4d5ae5;
@@ -97,11 +104,15 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-#studio h3 {
+.sudio-title-m {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
+
 .sudio-paragraf {
   font-weight: 400;
   font-size: 16px;
@@ -119,6 +130,8 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  line-height: 1.11;
+  text-transform: capitalize;
 }
 .team-list {
   background-color: #ffffff;
@@ -146,6 +159,8 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  line-height: 1.11;
+  text-transform: capitalize;
 }
 .portfolio-title-s {
   font-weight: 500;
