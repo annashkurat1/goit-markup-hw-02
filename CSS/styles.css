@@ -9,7 +9,7 @@ a {
 
 .websudio {
   text-transform: uppercase;
-  font-family: "Raleway";
+  font-family: "Raleway" sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -41,6 +41,12 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.link-studio:hover .link-portfolio:hover .link-contacts:hover {
+  color: #404bbf;
+}
+.link-studio:focus .link-portfolio:focus .link-contacts:focus {
+  color: #404bbf;
+}
 .link-contacts {
   font-weight: 500;
   font-size: 16px;
@@ -60,6 +66,9 @@ a {
 }
 .link-contacts:focus .link-mail:focus {
   color: #404bbf;
+}
+.link-adress {
+  font-style: normal;
 }
 .link-call {
   font-weight: 400;
