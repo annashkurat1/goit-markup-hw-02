@@ -47,31 +47,23 @@ a {
   color: #404bbf;
 }
 
-.link-mail {
+.link-adress {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.link-call:hover,
-.link-mail:hover {
-  color: #404bbf;git add
+.link-adress:hover {
+  color: #404bbf;
 }
-.link-call:focus,
-.link-mail:focus {
+.link-adress:focus {
   color: #404bbf;
 }
 .link-adress {
   font-style: normal;
 }
-.link-call {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
+
 .service {
   background-color: #2e2f42;
   color: #ffffff;
